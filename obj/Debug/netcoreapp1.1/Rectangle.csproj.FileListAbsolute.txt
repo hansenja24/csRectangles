@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/rectangle/bin/Debug/netcoreapp1.1/Rectangle.deps.json
+/Users/Guest/Desktop/rectangle/bin/Debug/netcoreapp1.1/Rectangle.runtimeconfig.json
+/Users/Guest/Desktop/rectangle/bin/Debug/netcoreapp1.1/Rectangle.runtimeconfig.dev.json
+/Users/Guest/Desktop/rectangle/obj/Debug/netcoreapp1.1/Rectangle.AssemblyInfo.cs
+/Users/Guest/Desktop/rectangle/bin/Debug/netcoreapp1.1/Rectangle.dll
+/Users/Guest/Desktop/rectangle/bin/Debug/netcoreapp1.1/Rectangle.pdb
+/Users/Guest/Desktop/rectangle/obj/Debug/netcoreapp1.1/Rectangle.dll
+/Users/Guest/Desktop/rectangle/obj/Debug/netcoreapp1.1/Rectangle.pdb
